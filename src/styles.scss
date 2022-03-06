@@ -7,3 +7,10 @@ html, body {
   min-height: 100vh;
   min-width: 180px;
 }
+.my_animation {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: pulse;
+  animation-duration: 2s;
+}
